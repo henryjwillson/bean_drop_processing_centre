@@ -6,4 +6,8 @@ The Bean Drop Processing Center is a user interface designed for use in the dail
 # Python Libraries / Software
 - Tkinter
 - 
+
+# Hidden Functions / Code
+- 5 / ???? methods within the '' class are shown, the rest have been removed to limit database naming conventions being revealed.
+- .gitignore is setup to not track files within certs folder
 User interface for all database functions involved in Bean Drop Process Cycle. Software linked to hardware connections of a thermal printer, rfid scanner, rfid multiplexer, camera modules.
